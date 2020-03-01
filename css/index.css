@@ -136,3 +136,26 @@ button[disabled=disabled], button:disabled {
 .paciente-invalido{
 	background-color: lightcoral;
 }
+
+/* AULA 7x02*/
+#mensagem-erro{
+	color: red;
+}
+
+/* AULA 7x03*/
+.fadeOut{ 
+	opacity: 0;
+	transition: 0.5s;
+}
+
+/* AULA 8x01*/
+#filtrar-tabela{
+	width: 200px;
+	height: 35px;
+	margin-bottom: 10px;
+}
+
+/* AULA 8x02*/
+.invisivel{
+	display: none;
+}
